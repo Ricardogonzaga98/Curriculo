@@ -7,8 +7,8 @@ Idade:26 anos
 Sexo:Masculino
 
 FORMAÇÃO:
-.Ensino Fundamental: Olympia Moraes Tormenta
-.Ensino Médio: Olympia Moraes Tormenta
+.Ensino Fundamental: ESCOLA ESTADUAL MONSENHOR JOSEMARIA ESCRIVÁ 
+.Ensino Médio:  PROFº OLYMPIA MORAES DE TORMENTA
 .Universidade Unicesumar: Cursando analise e desenvolvimento de Sistemas 3 semestre
 
 OBJETIVO:
