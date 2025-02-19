@@ -7,8 +7,8 @@ Idade:26 anos
 Sexo:Masculino
 
 FORMAÇÃO:
-.Ensino Fundamental:Hugo simas 
-.Ensino Médio:Marcelino Champagnat
+.Ensino Fundamental: Olympia Moraes Tormenta
+.Ensino Médio: Olympia Moraes Tormenta
 .Universidade Unicesumar: Cursando analise e desenvolvimento de Sistemas 3 semestre
 
 OBJETIVO:
